@@ -2,11 +2,11 @@
     "name": "OPOS",
     "symbol": "OPOS",
     "description": "Only Possible On Solana",
-    "image": "https://raw.githubusercontent.com/ZYJLiu/opos-asset/main/assets/SagaPhone/SagaPhone.png",
+    "image": "https://raw.githubusercontent.com/ZYJLiu/opos-asset/main/assets/GlobalPayments/GlobalPayments.png",
     "attributes": [
       {
         "trait_type": "Item",
-        "value": "Saga Phone"
+        "value": "Global Payments"
       }
     ]
   }

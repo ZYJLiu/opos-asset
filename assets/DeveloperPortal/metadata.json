@@ -2,11 +2,11 @@
     "name": "OPOS",
     "symbol": "OPOS",
     "description": "Only Possible On Solana",
-    "image": "https://raw.githubusercontent.com/ZYJLiu/opos-asset/main/assets/OpenCube/OpenCube.png",
+    "image": "https://raw.githubusercontent.com/ZYJLiu/opos-asset/main/assets/DeveloperPortal/image.png",
     "attributes": [
       {
         "trait_type": "Item",
-        "value": "OpenCube"
+        "value": "Developer Portal"
       }
     ]
   }
