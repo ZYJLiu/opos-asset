@@ -2,7 +2,7 @@
     "name": "OPOS",
     "symbol": "OPOS",
     "description": "Only Possible On Solana",
-    "image": "https://raw.githubusercontent.com/ZYJLiu/opos-asset/main/assets/GlobalPayments/GlobalPayments.png",
+    "image": "https://raw.githubusercontent.com/ZYJLiu/opos-asset/main/assets/GlobalPayments/image.png",
     "attributes": [
       {
         "trait_type": "Item",
