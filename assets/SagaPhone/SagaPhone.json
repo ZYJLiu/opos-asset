@@ -3,7 +3,7 @@
     "symbol": "OPOS",
     "description": "Only Possible On Solana",
     "seller_fee_basis_points": 0,
-    "image": "https://raw.githubusercontent.com/ZYJLiu/opos-asset/assets/SagePhone/SagePhone.png",
+    "image": "https://raw.githubusercontent.com/ZYJLiu/opos-asset/main/assets/SagePhone/SagePhone.png",
     "attributes": [
       {
         "trait_type": "Item",
