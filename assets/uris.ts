@@ -1,6 +1,6 @@
 export const uris = [
   "https://raw.githubusercontent.com/ZYJLiu/opos-asset/main/assets/Climate/Climate.json",
-  "https://raw.githubusercontent.com/ZYJLiu/opos-asset/main/assets/Closedcube/Closedcube.json",
+  "https://raw.githubusercontent.com/ZYJLiu/opos-asset/main/assets/ClosedCube/ClosedCube.json",
   "https://raw.githubusercontent.com/ZYJLiu/opos-asset/main/assets/Consensus/Consensus.json",
   "https://raw.githubusercontent.com/ZYJLiu/opos-asset/main/assets/DeveloperPortal/DeveloperPortal.json",
   "https://raw.githubusercontent.com/ZYJLiu/opos-asset/main/assets/DeveloperToolkit/DeveloperToolkit.json",
