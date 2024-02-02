@@ -2,7 +2,7 @@
     "name": "OPOS",
     "symbol": "OPOS",
     "description": "Only Possible On Solana",
-    "image": "https://raw.githubusercontent.com/ZYJLiu/opos-asset/main/assets/Climate/image.png",
+    "image": "https://maplestory.io/api/character/%7B%22itemId%22%3A2000%2C%22region%22%3A%22GMS%22%2C%22version%22%3A%22235%22%7D%2C%7B%22itemId%22%3A12000%2C%22region%22%3A%22GMS%22%2C%22version%22%3A%22235%22%7D%2C%7B%22itemId%22%3A1472032%2C%22region%22%3A%22GMS%22%2C%22version%22%3A%22235%22%7D%2C%7B%22itemId%22%3A1050018%2C%22region%22%3A%22GMS%22%2C%22version%22%3A%22235%22%7D%2C%7B%22itemId%22%3A1082223%2C%22region%22%3A%22GMS%22%2C%22version%22%3A%22235%22%7D%2C%7B%22itemId%22%3A1072344%2C%22region%22%3A%22GMS%22%2C%22version%22%3A%22235%22%7D%2C%7B%22itemId%22%3A20000%2C%22animationName%22%3A%22default%22%2C%22region%22%3A%22GMS%22%2C%22version%22%3A%22235%22%7D%2C%7B%22itemId%22%3A30020%2C%22region%22%3A%22GMS%22%2C%22version%22%3A%22235%22%7D/alert/animated?showears=false&showLefEars=false&name=&flipX=false&renderMode=4",
     "attributes": [
       {
         "trait_type": "Item",
